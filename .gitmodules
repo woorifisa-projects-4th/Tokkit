@@ -1,0 +1,6 @@
+[submodule "Tokkit-Client"]
+	path = Tokkit-Client
+	url = https://github.com/Team-Tokkit/Tokkit-Client.git
+[submodule "Tokkit-Server"]
+	path = Tokkit-Server
+	url = https://github.com/Team-Tokkit/Tokkit-Server.git
